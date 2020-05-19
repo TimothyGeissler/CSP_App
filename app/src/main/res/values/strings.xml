@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CSP Mobile</string>
+    <string name="msg_login">Please login with your CSP account.</string>
+    <string name="msg_phone">Welcome {name}.  Please enter this phone\'s number to gain access to the mobile app.</string>
+    <string name="btn_next">NEXT</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_save">SAVE</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_phone">mobile no.</string>
+    <string name="hint_dealers">dealers</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_new">New</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="title_activity_start">CSP Mobile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
